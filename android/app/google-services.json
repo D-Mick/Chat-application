@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "215002352858",
+    "project_id": "flash-chat-fe889",
+    "storage_bucket": "flash-chat-fe889.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215002352858:android:8f349dc5c21434ce9d69e3",
+        "android_client_info": {
+          "package_name": "co.durotimijohnson.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215002352858-p5ipeorn5ja6hkidr3g1srs0i1f5lno5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLl3d7mPT5AtdwumEJmSSe2zQ33EbyNbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215002352858-p5ipeorn5ja6hkidr3g1srs0i1f5lno5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
